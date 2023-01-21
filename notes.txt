@@ -1,0 +1,4 @@
+this is a basic calculator build by using html, css and javascript as a basics practice project.
+I hope to build this same app using react js too
+
+
